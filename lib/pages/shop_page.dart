@@ -53,7 +53,8 @@ class _ShopPageState extends State<ShopPage> {
               ],
           ),
         ),
-        //massage
+        
+        //pesan
         Padding(
           padding: const EdgeInsets.symmetric(vertical: 25.0),
           child: Text(
