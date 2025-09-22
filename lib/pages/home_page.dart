@@ -129,7 +129,3 @@ class _HomePageState extends State<Homepage> {
     );
   }
 }
-
-// menit 12.15
-//selesai // Buka Selanjutnya di shop_page.dart
-
